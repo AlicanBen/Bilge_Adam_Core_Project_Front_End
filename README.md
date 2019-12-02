@@ -1,1 +1,0 @@
-# Bilge_Adam_Core_Project_Front_End

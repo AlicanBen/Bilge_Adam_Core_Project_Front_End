@@ -1,0 +1,16 @@
+.r {
+  border: 1px solid #28a745;
+}
+.responsive {
+  max-width: 100%;
+  min-width: 2%;
+  height: auto;
+}
+.min {
+  max-width: 35%;
+  min-width: 2%;
+  height: auto;
+}
+.green {
+  color: #28a745;
+}
